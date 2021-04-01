@@ -13,7 +13,7 @@ My findings for the data can be found at: https://ericyeonpark.github.io/2021-03
 
 ## Files
 
-- DS_Unit2_Port_Movies_TreeModel.ipynb: jupyter file containing a classification model that predicts if a movie is hosted on Netflix
-- DS_Unit2_Port_Movies_LinearModel.ipynb: jupyter file containing our linear model that predicts a movies IMDb rating
-- MoviesOnStreamingPlatforms_updated.csv: csv file from Kaggle which our models are based on
-- Pipfile, Pipfile.lock: Pipfiles for libraries import
+- **DS_Unit2_Port_Movies_TreeModel.ipynb**: jupyter file containing a classification model that predicts if a movie is hosted on Netflix
+- **DS_Unit2_Port_Movies_LinearModel.ipynb**: jupyter file containing our linear model that predicts a movies IMDb rating
+- **MoviesOnStreamingPlatforms_updated.csv**: csv file from Kaggle which our models are based on
+- **Pipfile**, **Pipfile.lock**: Pipfiles for libraries import
